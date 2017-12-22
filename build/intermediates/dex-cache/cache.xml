@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/4c86ae743f47135c69d7a9bcdd573449c0f1d22d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b1ac9b0ff4107ac28fb909df55622cc523c2b2e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/761b035c06ddffbd87d57357831ef77122779c90/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d1d062dd50a0ca6c579770e9aa855e401474d46/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/310186c554a2220e23fd5bef46a744a20ac973fa/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a5beae931c0278197b3e4b711147cf988aef261e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="df69a2e1dfbe1a0aa0464bc479367ee3200a7175">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_652a1bc87a53aa5918941ec83943d08e103019f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/1ef7f3fb5dcd82b04c6710625029e0b4fdbcf65c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ea5a937ab84229fbd2f3fc8cf2a72cbdf0ee0f">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7e682d4e8ee950ee71c7fdcdf475179d0b22f79a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/3a4767feec1721ead7de93c504ead2076b496dcd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dc83ab7a5ce1e0296cf18a52a6edbcfef815e6cf">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5474586e0afbbf80eb77d3b94ca8e76f48db03e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/9ae72961da7db543e86129baf632eb408d33406e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ab6e491b5d7bda2f47991a30f6bfe9a8b134ff8b">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b387b659a2a1e45443c9ea66abc007e48041409f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/6ff699866b68c278e07e4bc0c9790bac03c9491b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="287f4dec8dc2d40a238b12562b437438499cd2fb">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cd177f7d381fc6d6a906ad8cc85cc08d097b30af/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/eb28eaae5ed4337dc19c19286cb990f3acaad4df/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_080dab026c8564574fd98e72ef722ce910fa7496/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.3.0/73c49077166faa4c3c0059c5f583d1d7bd1475fe/core-3.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="73c49077166faa4c3c0059c5f583d1d7bd1475fe">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/core-3.3.0_e579f7fe1ac45dcc57173e2d892583c28f043e66/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/e2403df1f6d520958de9924d8c020ca91585ea27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_87ac6c1a27e3337fd0af419a2343ff7aa547798e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/252a7c64b5363f3ded1210959806884e30b9de65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cee12aa81ee34d743fc1246395a0603a72631dcd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/14a93d474a09dd5fcacf5fd1d8da446dd6bed187/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="807751a24cf96566fd8675517c94d8463cf364db">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_351374c9196e189cbd5299b05a61d30a56e8ecac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/560a22963acc4a9fe7d529d45f9d028a04cfcde6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2482bfd874e8b3927f4141105674ad392ff83698">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_08b95bac9475e372b3e5b7ead1617e93b29ae9a0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_41a3aa3100dec6199de50772a3cdb8ea55a1d44f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ec2e45f768a3792bcaa21b3077f22dbb7ddb1b9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-applinks-1.4.0_b503d5ffbffee710a98cb7050b8622d105dca451/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/1bf92466a7844c0c390334eebbacfabb75849c46/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b8b26b28aae0ba8e2db55ad9fe0ebc770530c5ef">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a2d13f77dae50a86f6ee8aa34e8cd7d8e7a7210/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/f1ff85c7792305a46d28450ebce02a111e3c5f41/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_74fcca88ae2235483fa4d7d385db77be97cab337/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_da148314587137b25c49c8721ace865df66b3460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/c8647ccb509a65afd7b6b8e43869dc6bbdc7988a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c37734ce83b4522d83e6cf1312b150b19223a5f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/c96b022be5716ae32afe1c546075484dee635761/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3ef251758081a3f649f8ebc4bbd409021b8f695b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/aa9778c4e094e45095df3da25e23be911ecc29b8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9258768942528878cb07058ef802ff07b1038dea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/78d5427e2453c5437f6d9246c10cd0c7325d4857/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d81051f9914d504151711412d134b0892e77c90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/e5782e81c1c74d73f18ead803776cc57ecf2b51d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0d394688dd7030b83dea8eed3fa483410c24afe0">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c38856da3d54116f124c4caf0bb3c3f3ad64e29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/976d42e8a3f8707f9c1d7733fdcdaf1dce53ed86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f0e71861ce3e7752bf163991dd98135503135357/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/1cec2bd5108e696fb9d40ca4831e6727e907115c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5dc9271f777497039461ff2cf350b3677b7ebb1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/wuchaoyu/.android/build-cache/f3847824469f63293abc1f3e2b5429364a5fe2af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="53e8932b1ac8c7dfc35cfeda1f9efbc9822ceaf3">
+        <dex dex="/Users/wuchaoyu/Documents/USC 3rd semester/CSCI 571/HW9/android/csci571/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5026c66dc4e99a675243251da131eb808425b0fb/classes.dex" />
+    </item>
+
+</items>

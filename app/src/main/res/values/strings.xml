@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">csci571</string>
+    <string name="stock_market_search">Stock Market Search</string>
+    <string name="symbol_key">Symbol</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">129399031074227</string>
+</resources>
